@@ -1,0 +1,88 @@
+site_name: Portfolio - Hubert Skwarliński
+site_author: Hubert Skwarliński
+site_description: Portfolio data scientist i machine learning engineer - projekty, umiejętności i doświadczenie w analizie danych i sztucznej inteligencji.
+site_url: https://skwarlinski.github.io/ds_ai_portfolio
+
+theme:
+  name: material
+  language: pl
+  palette:
+    # Tryb jasny
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Przełącz na tryb ciemny
+    # Tryb ciemny
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Przełącz na tryb jasny
+  
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.code.annotate
+
+  icon:
+    repo: fontawesome/brands/github
+
+# Repository
+repo_name: skwarlinski/ds_ai_portfolio
+repo_url: https://github.com/skwarlinski/ds_ai_portfolio
+
+# Navigation
+nav:
+  - Strona główna: index.md
+  - O mnie: about.md
+  - Projekty:
+    - "Zaplanuj.to - AI Marketing Tool": zaplanuj.to/index.md
+  - Kontakt: kontakt.md
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+# Plugins
+plugins:
+  - search:
+      lang: pl
+
+# Extra
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/hubert-skwarlinski-895437368/
+      name: LinkedIn
+    - icon: fontawesome/brands/github
+      link: https://github.com/skwarlinski
+      name: GitHub
+    - icon: fontawesome/solid/envelope
+      link: mailto:skwarlinskihubert@gmail.com
+      name: Email
+
+# Copyright
+copyright: Copyright &copy; 2024 Hubert Skwarliński
