@@ -24,8 +24,8 @@ Jestem **Data Scientist (AI/ML)** z pasją do tworzenia inteligentnych rozwiąza
 
 ### 💼 Doświadczenie {#doswiadczenie}
 
-- **10 miesięcy** intensywnej nauki Data Science AI/ML
-- **6 miesięcy** - członek elitarnej grupy Masterclass - rozszerzenie kursu Data Science
+- **7 miesięcy** intensywnej nauki Data Science AI/ML
+- **4 miesięcy** - członek elitarnej grupy Masterclass - rozszerzenie kursu Data Science
 
 
 ---
