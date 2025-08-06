@@ -1,7 +1,7 @@
-site_name: Portfolio - Hubert Skwarliński
+site_name: Portfolio
 site_author: Hubert Skwarliński
-site_description: Portfolio data scientist i machine learning engineer - projekty, umiejętności i doświadczenie w analizie danych i sztucznej inteligencji.
-site_url: https://skwarlinski.github.io/ds_ai_portfolio
+site_description: Data Scientist | AI Developer | ML Engineer - Portfolio zawodowe
+site_url: https://skwarlinski.github.io/portfolio
 
 theme:
   name: material
@@ -10,16 +10,16 @@ theme:
     # Tryb jasny
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: blue
-      accent: blue
+      primary: teal
+      accent: teal
       toggle:
         icon: material/brightness-7
         name: Przełącz na tryb ciemny
     # Tryb ciemny
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue
-      accent: blue
+      primary: teal
+      accent: teal
       toggle:
         icon: material/brightness-4
         name: Przełącz na tryb jasny
@@ -34,20 +34,22 @@ theme:
     - content.code.copy
     - content.code.annotate
 
-  icon:
-    repo: fontawesome/brands/github
-
 # Repository
-repo_name: skwarlinski/ds_ai_portfolio
-repo_url: https://github.com/skwarlinski/ds_ai_portfolio
+repo_name: skwarlinski/portfolio
+repo_url: https://github.com/skwarlinski/portfolio
 
 # Navigation
 nav:
   - Strona główna: index.md
-  - O mnie: about.md
   - Projekty:
-    - "Zaplanuj.to - AI Marketing Tool": zaplanuj.to/index.md
-  - Kontakt: kontakt.md
+    - 💻 Aplikacje:
+      - Zaplanuj.to: zaplanuj_to/zaplanuj_to.md
+    - 📈 Analizy EDA:
+      - Iris: iris/iris.md
+      - Titanic: titanic/titanic.md
+    - Projekty w toku:
+      - w trakcie...: wtrakcie/wtrakcie.md
+  - Kontakt: "#kontakt"
 
 # Extensions
 markdown_extensions:
@@ -69,7 +71,7 @@ markdown_extensions:
 # Plugins
 plugins:
   - search:
-      lang: pl
+      lang: en
 
 # Extra
 extra:

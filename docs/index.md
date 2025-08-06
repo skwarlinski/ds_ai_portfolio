@@ -1,12 +1,6 @@
-# Hubert Skwarliński - Data Scientist & AI/ML
+# Hubert Skwarliński
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/hubert-skwarlinski-895437368/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/skwarlinski)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:skwarlinskihubert@gmail.com)
-
----
-
-## 👋 Witaj w moim portfolio!
+**Data Scientist | AI Developer | ML Engineer**
 
 Jestem **Data Scientist** i **AI Engineer** z pasją do tworzenia inteligentnych rozwiązań, które łączą zaawansowane algorytmy machine learning z praktycznymi zastosowaniami biznesowymi. Specjalizuję się w **automatyzacji procesów**, **analizie predykcyjnej** oraz **generatywnej sztucznej inteligencji**.
 
@@ -15,33 +9,71 @@ Jestem **Data Scientist** i **AI Engineer** z pasją do tworzenia inteligentnych
 
 ---
 
-## 🎯 Obszary specjalizacji
+## O Mnie
 
-### 🤖 Machine Learning & AI
-- **Supervised Learning**: Klasyfikacja, regresja, ensemble methods
-- **Unsupervised Learning**: Klasteryzacja, redukcja wymiarowości, anomaly detection  
-- **Deep Learning**: Neural networks, computer vision, NLP
-- **Generative AI**: LLMs, prompt engineering, RAG systems
+### 🎓 Wykształcenie {#wyksztacenie}
 
-### 📊 Data Science & Analytics
-- **Data Pipeline**: ETL/ELT, data cleaning, feature engineering
-- **Statistical Analysis**: Eksploracyjna analiza danych, testowanie hipotez
-- **Visualization**: Interactive dashboards, storytelling with data
-- **Big Data**: Pandas, NumPy, Dask, distributed computing
+- **Technik informatyk** (w trakcie nauki)
+- Zaliczone: INF.02 – Administracja i eksploatacja systemów komputerowych, urządzeń peryferyjnych i lokalnych sieci komputerowych 
+- W trakcie przygotowań do: INF.03 – Tworzenie i administrowanie stronami internetowymi oraz bazami danych
+- **Planowana matura: 2026**
 
-### 💻 Development & Deployment
-- **Python Ecosystem**: Scikit-learn, TensorFlow, PyTorch, Streamlit
-- **Cloud Platforms**: AWS, Google Cloud, Azure ML
-- **MLOps**: Model versioning, CI/CD, monitoring, A/B testing
-- **Web Development**: FastAPI, Flask, Docker, microservices
+### 📜 Certyfikaty {#certyfikaty}
+
+- **Kurs Data Science AI/ML** (ukończony)
+
+### 💼 Doświadczenie {#doswiadczenie}
+
+- **10 miesięcy** intensywnej nauki Data Science AI/ML
+- **6 miesięcy** - członek elitarnej grupy Masterclass - rozszerzenie kursu Data Science
+
 
 ---
 
-## 🚀 Featured Project
+## Umiejętności Techniczne
 
-### [Zaplanuj.to - AI Marketing Automation](zaplanuj.to/index.md)
+### 🐍 Języki programowania
+- **Python**
 
-**Zaawansowana aplikacja webowa** wykorzystująca machine learning i generatywną AI do automatyzacji kampanii marketingowych.
+### 🤖 AI/ML
+- **OpenAI**
+- **Anthropic**
+- **PyCaret**
+- **Scikit-learn**
+
+### 📊 Analiza danych i wizualizacja
+- **Pandas**
+- **NumPy**
+- **Matplotlib**
+- **Plotly**
+- **Seaborn**
+- **Streamlit**
+
+### 🗄️ Bazy danych
+- **SQL (MySQL)**
+- **Qdrant (Vector Database)**
+
+### ☁️ Cloud & DevOps
+- **AWS S3**
+- **Digital Ocean**
+- **GitHub Actions**
+
+### 📈 Monitoring & Analytics
+- **Langfuse**
+- **MLflow**
+
+### 🔧 Inne narzędzia
+- **VS Code**
+- **Jupyter Notebook**
+- **Github**
+
+---
+
+## Wybrane Projekty
+
+### 🚀 [Zaplanuj.to - generator kampanii marketingowych](zaplanuj.to/index.md)
+
+Zaawansowana aplikacja webowa wykorzystująca machine learning i generatywną AI do automatyzacji kampanii marketingowych.
 
 !!! success "Kluczowe osiągnięcia"
     ✅ **Pełna automatyzacja** - Od danych do gotowych kampanii w <30 sekund  
@@ -49,105 +81,46 @@ Jestem **Data Scientist** i **AI Engineer** z pasją do tworzenia inteligentnych
     ✅ **Skalowalność** - Obsługa 10k+ rekordów w czasie rzeczywistym  
     ✅ **User Experience** - Intuicyjny interfejs z 0% learning curve
 
-**Stack technologiczny:** Python • Streamlit • PyCaret • OpenAI GPT-4 • Pandas • Scikit-learn
+**Technologie:** `Python` • `Streamlit` • `PyCaret Clustering` • `Plotly` • `Pandas`
 
-[![Demo Live](https://img.shields.io/badge/🚀_Demo-Live_App-brightgreen)](https://zaplanujto.streamlit.app/)
-[![View Details](https://img.shields.io/badge/📖_Szczegóły-View_Project-blue)](zaplanuj.to/index.md)
+### 🎤 [Audionotatki](portfolio/audionotatki/)
 
----
+Aplikacja do nagrywania notatek głosowych z automatyczną transkrypcją do tekstu. Wykorzystuje model OpenAI Whisper, wektorową bazę danych oraz semantyczne wyszukiwanie notatek.
 
-## 💼 Doświadczenie i umiejętności
+**Technologie:** `Python` • `Streamlit` • `OpenAI Whisper` • `Qdrant` • `Embeddings`
 
-### 🛠️ Technologie i narzędzia
+### 🏃 [Półmaraton - predykcja czasu](portfolio/polmaraton/)
 
-=== "🐍 Python & ML"
-    
-    **Core Libraries**
-    - **Data Science**: Pandas, NumPy, SciPy, Jupyter
-    - **Machine Learning**: Scikit-learn, PyCaret, XGBoost, LightGBM
-    - **Deep Learning**: TensorFlow, PyTorch, Keras, Hugging Face
-    - **Visualization**: Matplotlib, Seaborn, Plotly, Streamlit
-    
-    **Advanced Tools**
-    - **AutoML**: PyCaret, TPOT, H2O.ai
-    - **MLOps**: MLflow, Weights & Biases, DVC
-    - **Feature Engineering**: Feature-engine, Category Encoders
-    - **Time Series**: Prophet, ARIMA, Seasonal Decompose
+Interaktywna aplikacja przewidująca czas półmaratonu na podstawie wytrenowanego modelu ML. Analiza danych 20+ tysięcy uczestników, integracja z GPT dla spersonalizowanych porad treningowych.
 
-=== "☁️ Cloud & Infrastructure"
-    
-    **Cloud Platforms**
-    - **AWS**: SageMaker, EC2, S3, Lambda, RDS
-    - **Google Cloud**: AI Platform, BigQuery, Cloud Functions
-    - **Azure**: ML Studio, Cognitive Services, Data Factory
-    
-    **Development & Deployment**
-    - **Containers**: Docker, Kubernetes, Docker Compose
-    - **CI/CD**: GitHub Actions, Jenkins, GitLab CI
-    - **Monitoring**: Prometheus, Grafana, ELK Stack
-    - **Databases**: PostgreSQL, MongoDB, Redis, Elasticsearch
+**Technologie:** `Python` • `Streamlit` • `CatBoost` • `PyCaret` • `OpenAI` • `Langfuse`
 
-=== "🎨 Frontend & Visualization"
-    
-    **Web Applications**
-    - **Streamlit**: Interactive ML applications
-    - **Dash**: Advanced dashboards and analytics
-    - **FastAPI**: RESTful APIs and microservices
-    - **Flask**: Web applications and API development
-    
-    **Data Visualization**
-    - **Business Intelligence**: Tableau, Power BI, Looker
-    - **Interactive Charts**: Plotly, Bokeh, D3.js
-    - **Statistical Plots**: Seaborn, Matplotlib, ggplot
-    - **Dashboards**: Streamlit, Dash, Gradio
+### 👥 [Find Friends](portfolio/friends/)
 
-### 📈 Kompetencje biznesowe
+Narzędzie EDA do znajdowania osób o podobnych zainteresowaniach. Wykorzystuje algorytmy clusteringu do identyfikacji grup użytkowników o zbliżonych preferencjach.
 
-- **🎯 Problem Solving**: Analiza wymagań biznesowych i tłumaczenie na rozwiązania techniczne
-- **📊 Data Strategy**: Projektowanie architektur danych i strategii analitycznych  
-- **🤝 Stakeholder Management**: Komunikacja z zespołami biznesowymi i technicznymi
-- **📋 Project Management**: Agile/Scrum, planowanie projektów data science
-- **🎓 Knowledge Transfer**: Szkolenia, warsztaty, dokumentacja techniczna
+**Technologie:** `Python` • `Streamlit` • `PyCaret Clustering` • `Plotly` • `Pandas`
 
 ---
 
-## 📚 Ciągły rozwój
+## Dostępność
 
-### 🎓 Aktualnie uczę się
+ **🔍 Aktywnie szukam:** <br>
+- Pracy stałej w obszarze Data Science/AI <br>
+- Projektów freelance związanych z ML/AI <br>
+- Współpracy przy tworzeniu innowacyjnych rozwiązań
 
-- **Advanced MLOps**: Kubeflow, MLflow Production, Model Governance
-- **Large Language Models**: Fine-tuning, RLHF, custom embeddings
-- **Real-time ML**: Stream processing, online learning, edge deployment
-- **Quantum Machine Learning**: Qiskit, quantum algorithms
-
-### 📖 Certyfikacje i kursy
-
-- **Machine Learning Specialization** - Stanford/Coursera
-- **Deep Learning Specialization** - deeplearning.ai
-- **AWS Certified Machine Learning** - Specialty (w trakcie)
-- **Google Cloud Professional ML Engineer** - (planowane 2024)
+**💼 Zainteresowany:** <br>
+- Rozwojem systemów AI <br>
+- Implementacją rozwiązań ML w biznesie <br>
+- Tworzeniem aplikacji z wykorzystaniem LLM
 
 ---
 
-## 🌟 Dlaczego warto ze mną współpracować?
+## 📬 Kontakt
 
-!!! tip "Unikalne wartości"
-    
-    **🔬 Naukowe podejście** - Solid foundations w matematyce i statystyce
-    
-    **💡 Innowacyjność** - Najnowsze trendy w AI/ML implementowane w praktyce
-    
-    **🎯 Fokus na biznes** - Rozwiązania które generują mierzalną wartość
-    
-    **🚀 Full-stack approach** - Od analizy danych po deployment w produkcji
-    
-    **🤝 Komunikacja** - Tłumaczenie technicznych konceptów na język biznesowy
-
----
-
-## 📬 Skontaktuj się ze mną
-
-Szukasz eksperta do projektu AI/ML? Masz ciekawe wyzwanie analityczne? Chcesz przedyskutować najnowsze trendy w data science?
+Szukasz eksperta do projektu AI/ML? <br>
+Masz ciekawe wyzwanie analityczne? <br>
 
 **Napisz do mnie!** Chętnie omówię możliwości współpracy.
 
