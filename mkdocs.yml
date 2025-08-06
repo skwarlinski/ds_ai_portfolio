@@ -1,7 +1,7 @@
 site_name: Portfolio
 site_author: Hubert Skwarliński
 site_description: Data Scientist | AI Developer | ML Engineer - Portfolio zawodowe
-site_url: https://skwarlinski.github.io/portfolio
+site_url: https://skwarlinski.github.io/portfolio/
 
 theme:
   name: material
@@ -43,13 +43,14 @@ nav:
   - Strona główna: index.md
   - Projekty:
     - 💻 Aplikacje:
-      - Zaplanuj.to: zaplanuj_to/zaplanuj_to.md
+      - Zaplanuj.to: zaplanuj_to/index.md
+      - Chat AI: chat-ai/index.md
     - 📈 Analizy EDA:
-      - Iris: iris/iris.md
-      - Titanic: titanic/titanic.md
+      - Iris: iris/index.md
+      - Titanic: titanic/index.md
     - Projekty w toku:
       - w trakcie...: wtrakcie/wtrakcie.md
-  - Kontakt: "#kontakt"
+  - Kontakt: kontakt.md
 
 # Extensions
 markdown_extensions:

@@ -2,7 +2,7 @@
 
 **Data Scientist | AI Developer | ML Engineer**
 
-Jestem **Data Scientist** i **AI Engineer** z pasją do tworzenia inteligentnych rozwiązań, które łączą zaawansowane algorytmy machine learning z praktycznymi zastosowaniami biznesowymi. Specjalizuję się w **automatyzacji procesów**, **analizie predykcyjnej** oraz **generatywnej sztucznej inteligencji**.
+Jestem **Data Scientist (AI/ML)** z pasją do tworzenia inteligentnych rozwiązań, które łączą zaawansowane algorytmy machine learning z praktycznymi zastosowaniami biznesowymi. Specjalizuję się w **automatyzacji procesów**, **analizie predykcyjnej** oraz **generatywnej sztucznej inteligencji**.
 
 !!! quote "Moja filozofia"
     "Najlepsze rozwiązania AI to te, które rozwiązują rzeczywiste problemy biznesowe, są intuicyjne w użyciu i dostarczają mierzalnej wartości."
@@ -71,7 +71,7 @@ Jestem **Data Scientist** i **AI Engineer** z pasją do tworzenia inteligentnych
 
 ## Wybrane Projekty
 
-### 🚀 [Zaplanuj.to - generator kampanii marketingowych](zaplanuj.to/index.md)
+### 🚀 [Zaplanuj.to - Generator kampanii marketingowych](zaplanuj_to/index.md)
 
 Zaawansowana aplikacja webowa wykorzystująca machine learning i generatywną AI do automatyzacji kampanii marketingowych.
 
@@ -81,25 +81,19 @@ Zaawansowana aplikacja webowa wykorzystująca machine learning i generatywną AI
     ✅ **Skalowalność** - Obsługa 10k+ rekordów w czasie rzeczywistym  
     ✅ **User Experience** - Intuicyjny interfejs z 0% learning curve
 
-**Technologie:** `Python` • `Streamlit` • `PyCaret Clustering` • `Plotly` • `Pandas`
+**Technologie:** `Python` • `Streamlit` • `PyCaret Clustering` • `Matplotlib` • `Pandas` • `OpenAI API` • `Github`
 
-### 🎤 [Audionotatki](portfolio/audionotatki/)
+### 🧠 [Chat AI - Inteligentny asystent AI w Streamlit](chat-ai/index.md)
 
-Aplikacja do nagrywania notatek głosowych z automatyczną transkrypcją do tekstu. Wykorzystuje model OpenAI Whisper, wektorową bazę danych oraz semantyczne wyszukiwanie notatek.
+Aplikacja która umożliwia prowadzenie rozmów z modelami OpenAI (GPT-4o, GPT-4o-mini) z pełnym zarządzaniem konwersacjami i monitorowaniem kosztów.
 
-**Technologie:** `Python` • `Streamlit` • `OpenAI Whisper` • `Qdrant` • `Embeddings`
+!!! success "Kluczowe osiągnięcia"
+    ✅ **Token cost monitoring** - System obliczania kosztów w czasie rzeczywistym na podstawie tokenów wejściowych i wyjściowych <br>
+    ✅ **JSON conversation management** - Lokalny system przechowywania rozmów z automatycznym zapisem do plików JSON <br>
+    ✅ **Langfuse API observation** - Implementacja dekoratora @observe() do monitorowania wszystkich wywołań OpenAI API <br>
+    ✅ **System prompt customization** - Możliwość personalizacji chatbota poprzez edycję systemowych promptów
 
-### 🏃 [Półmaraton - predykcja czasu](portfolio/polmaraton/)
-
-Interaktywna aplikacja przewidująca czas półmaratonu na podstawie wytrenowanego modelu ML. Analiza danych 20+ tysięcy uczestników, integracja z GPT dla spersonalizowanych porad treningowych.
-
-**Technologie:** `Python` • `Streamlit` • `CatBoost` • `PyCaret` • `OpenAI` • `Langfuse`
-
-### 👥 [Find Friends](portfolio/friends/)
-
-Narzędzie EDA do znajdowania osób o podobnych zainteresowaniach. Wykorzystuje algorytmy clusteringu do identyfikacji grup użytkowników o zbliżonych preferencjach.
-
-**Technologie:** `Python` • `Streamlit` • `PyCaret Clustering` • `Plotly` • `Pandas`
+**Technologie:** `Python` • `Streamlit` • `OpenAI API` • `Langfuse` • `Github`
 
 ---
 
@@ -117,14 +111,14 @@ Narzędzie EDA do znajdowania osób o podobnych zainteresowaniach. Wykorzystuje 
 
 ---
 
-## 📬 Kontakt
+## 📬 Kontakt {#kontakt}
 
 Szukasz eksperta do projektu AI/ML? <br>
 Masz ciekawe wyzwanie analityczne? <br>
 
 **Napisz do mnie!** Chętnie omówię możliwości współpracy.
 
-<div style="text-align: center; margin: 2rem 0;">
+<div style="text-align: left; margin: 2rem 0;">
     <a href="https://www.linkedin.com/in/hubert-skwarlinski-895437368/" style="margin: 0 1rem;">
         🔗 LinkedIn
     </a>

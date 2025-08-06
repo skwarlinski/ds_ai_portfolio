@@ -1,1 +1,0 @@
-# Zaplanuj.to
