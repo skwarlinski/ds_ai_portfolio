@@ -1,7 +1,5 @@
 # Hubert Skwarliński - Portfolio
 
-## 📬 Kontakt
-
 Masz pytania lub sugestie? Odezwij się!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/hubert-skwarlinski-895437368/)
