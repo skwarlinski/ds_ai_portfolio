@@ -1,6 +1,6 @@
 # Hubert Skwarliński - Portfolio
 
-Szukasz eksperta do projektu AI/ML?
+Szukasz eksperta do projektu AI/ML? <br>
 Masz ciekawe wyzwanie analityczne?
 
 Napisz do mnie! Chętnie omówię możliwości współpracy.
