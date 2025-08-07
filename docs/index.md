@@ -83,7 +83,7 @@ Zaawansowana aplikacja webowa wykorzystująca machine learning i generatywną AI
 
 **Technologie:** `Python` • `Streamlit` • `PyCaret Clustering` • `Matplotlib` • `Pandas` • `OpenAI API` • `Github`
 
-### 🧠 [Chat AI - Inteligentny asystent AI w Streamlit](chat-ai/index.md)
+### 💬 [Chat AI - Inteligentny asystent AI](chat-ai/index.md)
 
 Aplikacja która umożliwia prowadzenie rozmów z modelami OpenAI (GPT-4o, GPT-4o-mini) z pełnym zarządzaniem konwersacjami i monitorowaniem kosztów.
 
@@ -94,6 +94,18 @@ Aplikacja która umożliwia prowadzenie rozmów z modelami OpenAI (GPT-4o, GPT-4
     ✅ **System prompt customization** - Możliwość personalizacji chatbota poprzez edycję systemowych promptów
 
 **Technologie:** `Python` • `Streamlit` • `OpenAI API` • `Langfuse` • `Github`
+
+### 🧠 [AI Półmaraton - Aplikacja do przewidywania czasu ukończenia półmaratonu](ai-polmaraton/index.md)
+
+Aplikacja wykorzystująca machine learning do przewidywania czasu ukończenia półmaratonu na podstawie wieku, płci i wyniku na dystansie 5 km.
+
+!!! success "Kluczowe osiągnięcia"
+    ✅ **ML running prediction** - Wytrenowany model PyCaret przewidujący czas półmaratonu na podstawie danych demograficznych i wyników 5km <br>
+    ✅ **Production deployment** - Pełna konfiguracja aplikacji do wdrożenia na Digital Ocean App Platform z automatycznym skalowaniem <br>
+    ✅ **Performance monitoring** - Integracja z Langfuse do śledzenia dokładności predykcji i wydajności modelu ML <br>
+    ✅ **Automated ML pipeline** - Kompletny pipeline od treningu modelu (model_pycaret.pkl) do produkcyjnej aplikacji Streamlit
+
+**Technologie:** `Python` • `Streamlit` • `OpenAI API` • `Langfuse` • `Github` • `NumPy` • `PyCaret` • `Scikit-learn` • `Digital Ocean` • `AWS S3`
 
 ---
 

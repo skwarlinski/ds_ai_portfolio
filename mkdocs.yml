@@ -45,6 +45,7 @@ nav:
     - 💻 Aplikacje:
       - Zaplanuj.to: zaplanuj_to/index.md
       - Chat AI: chat-ai/index.md
+      - AI Półmaraton: ai-polmaraton/index.md
     - 📈 Analizy EDA:
       - Iris: iris/index.md
       - Titanic: titanic/index.md
