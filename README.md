@@ -1,6 +1,9 @@
 # Hubert Skwarliński - Portfolio
 
-Masz pytania lub sugestie? Odezwij się!
+Szukasz eksperta do projektu AI/ML?
+Masz ciekawe wyzwanie analityczne?
+
+Napisz do mnie! Chętnie omówię możliwości współpracy.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/hubert-skwarlinski-895437368/)
 - 💻 [GitHub](https://github.com/skwarlinski)
