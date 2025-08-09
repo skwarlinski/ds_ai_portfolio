@@ -25,7 +25,7 @@ Jestem **Data Scientist (AI/ML)** z pasją do tworzenia inteligentnych rozwiąza
 ### 💼 Doświadczenie {#doswiadczenie}
 
 - **7 miesięcy** intensywnej nauki Data Science AI/ML
-- **4 miesięcy** - członek elitarnej grupy Masterclass - rozszerzenie kursu Data Science
+- **4 miesiące** - członek elitarnej grupy Masterclass - rozszerzenie kursu Data Science
 
 
 ---
@@ -63,9 +63,9 @@ Jestem **Data Scientist (AI/ML)** z pasją do tworzenia inteligentnych rozwiąza
 - **MLflow**
 
 ### 🔧 Inne narzędzia
-- **VS Code**
 - **Jupyter Notebook**
 - **Github**
+- **Conda**
 
 ---
 
@@ -81,7 +81,7 @@ Zaawansowana aplikacja webowa wykorzystująca machine learning i generatywną AI
     ✅ **Skalowalność** - Obsługa 10k+ rekordów w czasie rzeczywistym  
     ✅ **User Experience** - Intuicyjny interfejs z 0% learning curve
 
-**Technologie:** `Python` • `Streamlit` • `PyCaret Clustering` • `Matplotlib` • `Pandas` • `OpenAI API` • `Github`
+**Technologie:** `Python` • `Streamlit` • `PyCaret` • `Matplotlib` • `Pandas` • `OpenAI API` • `Github` • `Conda`
 
 ### 💬 [Chat AI - Inteligentny asystent AI](chat-ai/index.md)
 
@@ -93,7 +93,7 @@ Aplikacja która umożliwia prowadzenie rozmów z modelami OpenAI (GPT-4o, GPT-4
     ✅ **Langfuse API observation** - Implementacja dekoratora @observe() do monitorowania wszystkich wywołań OpenAI API <br>
     ✅ **System prompt customization** - Możliwość personalizacji chatbota poprzez edycję systemowych promptów
 
-**Technologie:** `Python` • `Streamlit` • `OpenAI API` • `Langfuse` • `Github`
+**Technologie:** `Python` • `Streamlit` • `OpenAI API` • `Langfuse` • `Github` • `Conda`
 
 ### 🧠 [AI Półmaraton - Aplikacja do przewidywania czasu ukończenia półmaratonu](ai-polmaraton/index.md)
 
@@ -105,7 +105,7 @@ Aplikacja wykorzystująca machine learning do przewidywania czasu ukończenia p�
     ✅ **Performance monitoring** - Integracja z Langfuse do śledzenia dokładności predykcji i wydajności modelu ML <br>
     ✅ **Automated ML pipeline** - Kompletny pipeline od treningu modelu (model_pycaret.pkl) do produkcyjnej aplikacji Streamlit
 
-**Technologie:** `Python` • `Streamlit` • `OpenAI API` • `Langfuse` • `Github` • `NumPy` • `PyCaret` • `Scikit-learn` • `Digital Ocean` • `AWS S3`
+**Technologie:** `Python` • `Streamlit` • `OpenAI API` • `Langfuse` • `Github` • `NumPy` • `PyCaret` • `Scikit-learn` • `Digital Ocean` • `AWS S3` • `Conda`
 
 ---
 

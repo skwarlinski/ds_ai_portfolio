@@ -50,5 +50,5 @@ hide:
     - Matplotlib
     - Github
     - Reportlab
-
+    - Conda
 </div>

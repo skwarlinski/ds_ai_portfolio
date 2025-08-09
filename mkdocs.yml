@@ -46,11 +46,11 @@ nav:
       - Zaplanuj.to: zaplanuj_to/index.md
       - Chat AI: chat-ai/index.md
       - AI Półmaraton: ai-polmaraton/index.md
+      - Find Friends: find-friends/index.md
+      - Audio Notes: audio-notes/index.md
     - 📈 Analizy EDA:
       - Iris: iris/index.md
       - Titanic: titanic/index.md
-    - Projekty w toku:
-      - w trakcie...: wtrakcie/wtrakcie.md
   - Kontakt: kontakt.md
 
 # Extensions

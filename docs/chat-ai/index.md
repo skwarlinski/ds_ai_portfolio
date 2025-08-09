@@ -46,5 +46,6 @@ hide:
         * GPT-4o mini
     - Github
     - Langfuse
+    - Conda
 
 </div>

@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 30px;">
-    <img src="ai-polmaraton.png" 
+    <img src="audio_notes.png" 
          width="80" 
          style="background-color: transparent; 
                 border-radius: 16px; 
@@ -11,13 +11,13 @@ hide:
                 filter: drop-shadow(0 4px 8px rgba(255, 75, 75, 0.2));
                 flex-shrink: 0;">
     <div>
-        <h1 style="margin: 0; font-size: 2.5em; color: #ff4b4b;">AI Półmaraton</h1>
-        <p style="margin: 5px 0 0 0; color: #666; font-size: 1.1em;">Aplikacja Streamlit do przewidywania czasu ukończenia półmaratonu</p>
+        <h1 style="margin: 0; font-size: 2.5em; color: #ff4b4b;">Audio Notes</h1>
+        <p style="margin: 5px 0 0 0; color: #666; font-size: 1.1em;">Aplikacja w Streamlit do nagrywania notatek głosowych z automatyczną transkrypcją i inteligentnym wyszukiwaniem semantycznym.</p>
     </div>
 </div>
 
 <div style="text-align: center; margin: 30px 0;">
-    <a href="https://maraton-app-6lcl2.ondigitalocean.app/" 
+    <a href="https://github.com/skwarlinski/audio-notes" 
        target="_blank" 
        rel="noopener noreferrer"
        style="display: inline-block; 
@@ -30,26 +30,23 @@ hide:
               font-weight: bold;
               box-shadow: 0 4px 8px rgba(0,0,0,0.2);
               transition: all 0.3s ease;">
-        🔗 Przejdź do aplikacji
+        🔗 Przejdź do repozytorium
     </a>
 </div>
 
-### **AI Półmaraton** to inteligentna aplikacja Streamlit wykorzystująca machine learning do przewidywania czasu ukończenia półmaratonu. Na podstawie prostych danych wejściowych - wieku, płci i czasu na 5 km - aplikacja generuje precyzyjne prognozy przy użyciu zaawansowanych modeli ML.
+### **Audio Notes** to proste narzędzie w Streamlit, które umożliwia nagrywanie głosu, automatyczną transkrypcję przy użyciu OpenAI Whisper oraz zapisywanie i przeszukiwanie notatek w wektorowej bazie Qdrant.
 
 <div class="grid" markdown>
     Wykorzystane technologie i biblioteki
 
     - Python
     - Streamlit
-    - Pandas
-    - NumPy
-    - PyCaret
-    - Scikit-learn
-    - Langfuse
-    - OpenAI API
-        * GPT-4o
-    - Digital Ocean
-    - AWS S3
+    - OpenAI API:
+        * Whisper-1
+        * Text-embedding-3-large
+    - Qdrant
+    - Pydantic
     - Github
     - Conda
+
 </div>
