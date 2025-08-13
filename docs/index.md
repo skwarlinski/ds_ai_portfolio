@@ -8,8 +8,6 @@
     </div>
 </div>
 
-**Data Scientist | AI Developer | ML Engineer**
-
 Jestem **Data Scientist (AI/ML)** z pasją do tworzenia inteligentnych rozwiązań, które łączą zaawansowane algorytmy machine learning z praktycznymi zastosowaniami biznesowymi. Specjalizuję się w **automatyzacji procesów**, **analizie predykcyjnej** oraz **generatywnej sztucznej inteligencji**.
 
 !!! quote "Moja filozofia"
