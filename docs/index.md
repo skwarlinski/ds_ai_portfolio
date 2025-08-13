@@ -1,4 +1,12 @@
-# Hubert Skwarliński
+<div style="display: flex; align-items: center; gap: 2rem; margin-bottom: 2rem; flex-wrap: wrap;">
+    <div style="flex: 0 0 auto;">
+        <img src="foto.jpg" alt="Hubert Skwarliński" style="width: 150px; height: 150px; border-radius: 12px; object-fit: cover; object-position: center 20%;" />
+    </div>
+    <div style="flex: 1; min-width: 300px;">
+        <h2 style="margin: 0 0 0.5rem 0; font-size: 2.5rem; color: #1e9688;">Hubert Skwarliński</h2>
+        <p style="margin: 0; font-size: 1.2rem; color: #6b7280; font-weight: 500;">Data Scientist | AI Developer | ML Engineer</p>
+    </div>
+</div>
 
 **Data Scientist | AI Developer | ML Engineer**
 
